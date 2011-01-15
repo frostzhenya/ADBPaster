@@ -1,0 +1,5 @@
+F:\server wow-cataclysm\cache\adbpaster\ADBPaster\ADBPaster\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\server wow-cataclysm\cache\adbpaster\ADBPaster\ADBPaster\bin\Debug\ADBPaster.exe
+F:\server wow-cataclysm\cache\adbpaster\ADBPaster\ADBPaster\bin\Debug\ADBPaster.pdb
+F:\server wow-cataclysm\cache\adbpaster\ADBPaster\ADBPaster\obj\x86\Debug\ADBPaster.exe
+F:\server wow-cataclysm\cache\adbpaster\ADBPaster\ADBPaster\obj\x86\Debug\ADBPaster.pdb
